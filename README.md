@@ -1,5 +1,4 @@
 # clase-07
-Clase 07
 
 ### Metadatos
 
